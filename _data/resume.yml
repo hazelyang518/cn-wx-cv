@@ -31,7 +31,7 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: <font face="华文细黑粗体">中山大学 & University of Virginia（双硕士）</font>
     sub: <font face="楷体">经济学类硕士 （国际商务） </font>
-    duration: <font face="汉仪楷体">2018年9月 - 2024年9月</font>
+    duration: <font face="汉仪楷体">2018年9月 - 2021年7月</font>
     tags:
     - 
     # detail: 商业分析, 统计学, 供应链管理, 国际经济学, 计量经济学, 战略分析
@@ -83,7 +83,7 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体">腾讯 - 数据科学</font>
     sub: <font face="楷体">PCG大数据平台部   数据挖掘中心</font>
-    duration:  <font face="汉仪楷体">2021年7月 - 至今</font>
+    duration:  <font face="汉仪楷体">2021年7月 - 2024年9月</font>
     tags:
     - <font face="黑体">用户画像体系构建</font>
     - <font face="黑体">标签数据链路搭建</font>
