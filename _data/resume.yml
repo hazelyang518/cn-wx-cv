@@ -31,7 +31,7 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: <font face="华文细黑粗体">中山大学 & University of Virginia（双硕士）</font>
     sub: <font face="楷体">经济学类硕士 （国际商务） </font>
-    duration: <font face="汉仪楷体">2018年9月 - 2021年7月</font>
+    duration: <font face="汉仪楷体">2018年9月 - 2024年9月</font>
     tags:
     - 
     # detail: 商业分析, 统计学, 供应链管理, 国际经济学, 计量经济学, 战略分析
